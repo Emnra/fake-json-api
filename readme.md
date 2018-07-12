@@ -1,15 +1,15 @@
-#### Fake JSON API
+## Fake JSON API
 
 This is a simple application to create a fake JSON API with [JWT authentication](https://jwt.io/introduction/) + [JSON Server](https://github.com/typicode/json-server) + [Faker JS](https://github.com/marak/Faker.js/) to generate random data.
 
-## Install packages & Run
+### Install packages & Run
 
 ```bash
 $ npm install
 $ node server
 ```
 
-## How to login?
+### How to login?
 
 You can login by sending a POST request to:
 
